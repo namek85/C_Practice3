@@ -1,0 +1,15 @@
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/obj/Debug/net6.0/p4.csproj.AssemblyReference.cache
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/obj/Debug/net6.0/p4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/obj/Debug/net6.0/p4.AssemblyInfoInputs.cache
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/obj/Debug/net6.0/p4.AssemblyInfo.cs
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/obj/Debug/net6.0/p4.csproj.CoreCompileInputs.cache
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/bin/Debug/net6.0/p4
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/bin/Debug/net6.0/p4.deps.json
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/bin/Debug/net6.0/p4.runtimeconfig.json
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/bin/Debug/net6.0/p4.dll
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/bin/Debug/net6.0/p4.pdb
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/obj/Debug/net6.0/p4.dll
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/obj/Debug/net6.0/refint/p4.dll
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/obj/Debug/net6.0/p4.pdb
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/obj/Debug/net6.0/p4.genruntimeconfig.cache
+/Users/dmitrijivanov/GitPractice/C_Practice3/p4/obj/Debug/net6.0/ref/p4.dll
